@@ -1,5 +1,5 @@
 pkg load database
-conn = pq_connect(setdbopts('dbname', 'auxiliatura0980', 'host', 'localhost', 'port', '5433', 'user', 'postgres', 'password', 'It@lia2001'))
+conn = pq_connect(setdbopts('dbname', 'auxiliatura0980', 'host', 'localhost', 'port', '5433', 'user', 'postgres', 'password', 'pass'))
 
 ###Insertar registro
 N = pq_exec_params(conn, "Insert INTO ejemplo (id, nombre, apellido) VALUES (1, 'Alexander', 'Sanan');");
