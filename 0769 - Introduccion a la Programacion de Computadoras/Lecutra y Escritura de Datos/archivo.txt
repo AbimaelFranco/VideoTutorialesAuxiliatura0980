@@ -1,0 +1,3 @@
+Escribir cadena en archivo mediante fprinft. 
+Facultad de Ingeniería.
+UNAM
