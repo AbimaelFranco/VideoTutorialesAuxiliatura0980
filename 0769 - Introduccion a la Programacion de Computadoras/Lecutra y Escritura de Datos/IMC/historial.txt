@@ -1,0 +1,2 @@
+Peso: 85.00 kg, Altura: 1.90 m, IMC: 23.55
+Peso: 42.00 kg, Altura: 2.10 m, IMC: 9.52
